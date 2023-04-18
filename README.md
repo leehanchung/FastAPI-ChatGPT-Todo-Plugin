@@ -7,15 +7,12 @@ Featuring:
 - `/` and `/help` endpoints
 
 ## Run
-[Repl.it]
+- Fork the [Repl.it](https://replit.com/@leehanchung/FastAPI-ChatGPT-Todo-Plugin)
+
+- Click on `Run`
+
+- [Read the ChatGPT Plugin Docs on how to install](https://openai.com/blog/chatgpt-plugins)**
+
 
 ## Examples
 ![Alt text](docs/sample.png)
-
-## Run
-
-Press the `Run` button on Repl.it.
-
-> **[Read the ChatGPT Plugin Docs for more](https://platform.openai.com/docs/plugins/introduction)**
-
-> **Join the [ChatGPT plugins waitlist here](https://openai.com/waitlist/plugins)!**
